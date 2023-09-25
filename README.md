@@ -1,4 +1,4 @@
-LInks:
+Links:
 
 Lost Soles:
 https://itch.io/jam/cpp-halloween-horror-jam-2022/rate/1749393
